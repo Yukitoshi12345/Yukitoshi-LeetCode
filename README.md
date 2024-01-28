@@ -1,2 +1,3 @@
-# Yukitoshi-LeetCode
-Yukitoshi's LeetCode Solution.
+# Yukitoshi LeetCode
+
+# Profile: https://leetcode.com/yukitoshi/
